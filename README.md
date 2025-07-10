@@ -3,8 +3,6 @@
 
 **JOELNATHAN544/JOELNATHAN544** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on LinkSphere website
 - 🌱 I’m currently learning improving my frontend UI/UX design skills with Figma/Sketch.
 - 👯 I’m looking to collaborate on open-source projects that involve Rust, Actix Web, or modern frontend frameworks (React/Vue.js).
