@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on open-source projects that involve Rust, Actix Web, or modern frontend frameworks (React/Vue.js).
 - 🤔 I’m looking for help with  advanced strategies for SEO and digital marketing for niche e-commerce.
 - 💬 Ask me about rust's ownership and borrowing system.
-- 📫 How to reach me: ...
+- 📫 How to reach me: 
 - 😄 Pronouns: 
 - ⚡ Fun fact: ...# 💫 About Me:  I believe good code is like a good puzzle – challenging to build, satisfying to solve.
 
