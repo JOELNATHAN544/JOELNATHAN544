@@ -68,5 +68,19 @@ I believe good code is like a good puzzle — **challenging to build, satisfying
 
 ---
 
+## 📊 GitHub Stats
+
+| Stats | Streak |
+| :---: | :---: |
+| ![](https://github-readme-stats.vercel.app/api?username=joelnathan544&theme=dark&hide_border=false) | ![](https://nirzak-streak-stats.vercel.app/?user=joelnathan544&theme=dark) |
+
+### 🛠 Top Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=joelnathan544&theme=dark&layout=compact)
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=joelnathan544&icon=0&color=0" alt="Visit Count" />
+</p>
 
 [![](https://visitcount.itsvg.in/api?id=JOELNATHAN544&icon=0&color=0)](https://visitcount.itsvg.in)
