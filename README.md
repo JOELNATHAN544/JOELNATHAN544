@@ -62,12 +62,22 @@ I believe good code is like a good puzzle — **challenging to build, satisfying
 
 ## 📊 GitHub Stats
 
-| Stats | Streak |
-| :---: | :---: |
-| ![](https://github-readme-stats.vercel.app/api?username=JOELNATHAN544&theme=dark&hide_border=false) | ![](https://github-readme-streak-stats.herokuapp.com/?user=JOELNATHAN544&theme=dark) |
-
-### 🛠 Top Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JOELNATHAN544&theme=dark&layout=compact)
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=JOELNATHAN544&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=JOELNATHAN544&theme=dark&hide_border=false" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+  
+  <br />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOELNATHAN544&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
 
 ---
 
