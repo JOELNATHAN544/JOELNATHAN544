@@ -1,7 +1,18 @@
-## Hi there 👋  
-I'm **Joel Nathan** — a passionate software developer who loves building meaningful digital experiences.
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <!-- Replace with your own GIF/preview if you have one, or remove this cell -->
+        <img src="https://github.com/JOELNATHAN544/JOELNATHAN544/raw/main/assets/your-preview.gif?raw=true" width="300" alt="Profile Preview"/>
+      </td>
+      <td>
+        <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Code&size=24&duration=3000&pause=500&center=true&vCenter=true&width=400&height=80&lines=Hi+there!;I'm+Joel+Nathan;Passionate+Developer;Building+cool+stuff;Rust+%26+Frontend+lover;Star+some+repos!" alt="Typing SVG" />
+      </td>
+    </tr>
+  </table>
+</p>
 
----
+## Hi there 👋 I'm **Joel Nathan** — a passionate software developer who loves building meaningful digital experiences.
 
 ### 💫 About Me
 I believe good code is like a good puzzle — **challenging to build, satisfying to solve**.
@@ -15,72 +26,80 @@ I believe good code is like a good puzzle — **challenging to build, satisfying
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I enjoy breaking systems just to understand how to rebuild them better
 
----
+### 🌐 Socials
+<p align="center">
+  <a href="https://www.facebook.com/profile.php?id=61572991858016">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/wankojoelnathan/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.tiktok.com/@joelnathanwanko">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=flat-square&logo=TikTok&logoColor=white" alt="TikTok"/>
+  </a>
+  <a href="mailto:wankojoelnathan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/joelnathan-wanko-1a5a31341">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
-## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61572991858016)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/wankojoelnathan/)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@joelnathanwanko)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:wankojoelnathan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joelnathan-wanko-1a5a31341)
+### 💻 Tech Stack
 
----
+#### Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white"/>
+</p>
 
-## 💻 Tech Stack
+#### Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D"/>
+  <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white"/>
+</p>
 
-### Languages
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+#### Backend / DevOps
+<p align="center">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white"/>
+</p>
 
-### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+#### Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
 
-### Backend / DevOps
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-### Databases
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=JOELNATHAN544&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=JOELNATHAN544&theme=dark&hide_border=false" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+### 📊 GitHub Stats
+<p align="center">
+  <!-- Using a reported working fork/mirror for main stats (test; swap if needed) -->
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=JOELNATHAN544&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
   
-  <br />
+  <!-- Streak using a Vercel-based alternative that's active -->
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=JOELNATHAN544&theme=dark&hide_border=false" alt="GitHub Streak"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOELNATHAN544&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
-
----
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOELNATHAN544&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+</p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=JOELNATHAN544&icon=0&color=0" alt="Visit Count" />
+  <img src="https://visitcount.itsvg.in/api?id=JOELNATHAN544&icon=0&color=0" alt="Visit Count"/>
 </p>
+
+---
+
+Made with ❤️ — feel free to star some repos on your way out! 🚀
