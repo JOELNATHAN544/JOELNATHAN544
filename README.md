@@ -59,11 +59,10 @@ I believe good code is like a good puzzle — **challenging to build, satisfying
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
-![](https://github-readme-stats.vercel.app/api?username=JOELNATHAN544&theme=dark&hide_border=false)
 
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=JOELNATHAN544&theme=dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=JOELNATHAN544&theme=dark&hide_border=false)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=JOELNATHAN544&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JOELNATHAN544&theme=dark&layout=compact)
