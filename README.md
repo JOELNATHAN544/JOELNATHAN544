@@ -93,12 +93,12 @@ I believe good code is like a good puzzle — **challenging to build, satisfying
   <!-- Streak using a Vercel-based alternative that's active -->
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=JOELNATHAN544&theme=dark&hide_border=false" alt="GitHub Streak"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOELNATHAN544&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOELNATHAN544&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/> -->
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=JOELNATHAN544&icon=0&color=0" alt="Visit Count"/>
-</p>
+</p> -->
 
 ---
 
