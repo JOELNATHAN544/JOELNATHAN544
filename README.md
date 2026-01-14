@@ -63,7 +63,6 @@ I believe good code is like a good puzzle — **challenging to build, satisfying
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=JOELNATHAN544&theme=dark&hide_border=false)
-
 ![](https://nirzak-streak-stats.vercel.app/?user=JOELNATHAN544&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JOELNATHAN544&theme=dark&layout=compact)
 
