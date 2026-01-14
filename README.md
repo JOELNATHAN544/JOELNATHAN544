@@ -84,6 +84,7 @@ I believe good code is like a good puzzle — **challenging to build, satisfying
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
+
 ### 📊 GitHub Stats
 <p align="center">
   <!-- Using a reported working fork/mirror for main stats (test; swap if needed) -->
