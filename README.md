@@ -99,7 +99,3 @@ I believe good code is like a good puzzle — **challenging to build, satisfying
 <!-- <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=JOELNATHAN544&icon=0&color=0" alt="Visit Count"/>
 </p> -->
-
----
-
-Made with ❤️ — feel free to star some repos on your way out! 🚀
