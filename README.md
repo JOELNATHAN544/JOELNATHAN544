@@ -95,12 +95,16 @@ I believe good code is like a good puzzle — **challenging to build, satisfying
 
 ### 📊 GitHub Stats
 <p align="center">
-  <!-- Main stats: commits + PRs + issues + private (if enabled in GitHub settings) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=JOELNATHAN544&theme=dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-
-  <!-- Streak stats: current streak + longest streak -->
-  <img src="https://github-readme-streak-stats.demolab.com/?user=JOELNATHAN544&theme=dark&hide_border=false" alt="GitHub Streak"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=JOELNATHAN544&show_icons=true&include_all_commits=true&count_private=true&theme=dark"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-streak-stats.demolab.com/?user=JOELNATHAN544&theme=dark"
+    alt="GitHub Streak"
+  />
 </p>
+
 
 <!-- Optional: Top languages -->
 <!--
