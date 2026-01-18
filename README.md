@@ -1,6 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOELNATHAN544&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JOELNATHAN544)](https://github.com/JOELNATHAN544/github-readme-stats)
-<p align="center">
   <table>
     <tr>
       <td>
@@ -96,16 +93,8 @@ I believe good code is like a good puzzle — **challenging to build, satisfying
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=JOELNATHAN544&show_icons=true&include_all_commits=true&count_private=true&theme=dark"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-streak-stats.demolab.com/?user=JOELNATHAN544&theme=dark"
-    alt="GitHub Streak"
-  />
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOELNATHAN544&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JOELNATHAN544&layout=compact)<p align="center">
 
 
 <!-- Optional: Top languages -->
