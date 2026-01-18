@@ -1,5 +1,5 @@
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOELNATHAN544&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JOELNATHAN544)](https://github.com/JOELNATHAN544/github-readme-stats)
 <p align="center">
   <table>
     <tr>
