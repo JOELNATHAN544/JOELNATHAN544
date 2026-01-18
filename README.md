@@ -1,4 +1,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOELNATHAN544)](https://github.com/JOELNATHAN544/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOELNATHAN544&show_icons=true)
 <p align="center">
   <table>
     <tr>
