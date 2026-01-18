@@ -2,7 +2,7 @@
   <table>
     <tr>
       <td>
-        <!-- Replace with your own GIF/preview if you have one, or remove this cell -->
+        <!-- Optional preview GIF (remove if you don't have one) -->
         <img src="https://github.com/JOELNATHAN544/JOELNATHAN544/raw/main/assets/your-preview.gif?raw=true" width="300" alt="Profile Preview"/>
       </td>
       <td>
@@ -13,6 +13,8 @@
 </p>
 
 ## Hi there 👋 I'm **Joel Nathan** — a passionate software developer who loves building meaningful digital experiences.
+
+---
 
 ### 💫 About Me
 I believe good code is like a good puzzle — **challenging to build, satisfying to solve**.
@@ -25,6 +27,8 @@ I believe good code is like a good puzzle — **challenging to build, satisfying
 - 📫 Reach me via social links below
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I enjoy breaking systems just to understand how to rebuild them better
+
+---
 
 ### 🌐 Socials
 <p align="center">
@@ -45,10 +49,12 @@ I believe good code is like a good puzzle — **challenging to build, satisfying
   </a>
 </p>
 
+---
+
 ### 💻 Tech Stack
 
 #### Languages
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -60,7 +66,7 @@ I believe good code is like a good puzzle — **challenging to build, satisfying
 </p>
 
 #### Frontend
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
@@ -70,7 +76,7 @@ I believe good code is like a good puzzle — **challenging to build, satisfying
 </p>
 
 #### Backend / DevOps
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
@@ -79,23 +85,33 @@ I believe good code is like a good puzzle — **challenging to build, satisfying
 </p>
 
 #### Databases
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
+---
+
 ### 📊 GitHub Stats
 <p align="center">
-  <!-- Using a reported working fork/mirror for main stats (test; swap if needed) -->
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=JOELNATHAN544&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
-  
-  <!-- Streak using a Vercel-based alternative that's active -->
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=JOELNATHAN544&theme=dark&hide_border=false" alt="GitHub Streak"/>
-  
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOELNATHAN544&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/> -->
+  <!-- Main stats: commits + PRs + issues + private (if enabled in GitHub settings) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=JOELNATHAN544&theme=dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+
+  <!-- Streak stats: current streak + longest streak -->
+  <img src="https://github-readme-streak-stats.demolab.com/?user=JOELNATHAN544&theme=dark&hide_border=false" alt="GitHub Streak"/>
 </p>
 
-<!-- <p align="center">
+<!-- Optional: Top languages -->
+<!--
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOELNATHAN544&theme=dark&layout=compact&hide_border=false" alt="Top Languages"/>
+</p>
+-->
+
+<!-- Optional: visitor counter -->
+<!--
+<p align="center">
   <img src="https://visitcount.itsvg.in/api?id=JOELNATHAN544&icon=0&color=0" alt="Visit Count"/>
-</p> -->
+</p>
+-->
