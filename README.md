@@ -1,3 +1,4 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOELNATHAN544)](https://github.com/JOELNATHAN544/github-readme-stats)
 <p align="center">
   <table>
     <tr>
